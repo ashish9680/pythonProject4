@@ -12,6 +12,8 @@ stores = [
             }
         ]
     }
+
+
 ]
 
 @app.get('/stores')
